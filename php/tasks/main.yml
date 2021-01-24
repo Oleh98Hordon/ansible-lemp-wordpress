@@ -1,0 +1,10 @@
+---
+# tasks file for php
+- name: Install PHP
+  become: yes
+  apt:
+    name: '{{ item }}'
+    state: latest
+  with_items:
+    - php-fpm
+    - php-mysql

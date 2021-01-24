@@ -1,0 +1,4 @@
+---
+# vars file for nginx_role
+#ansible_host = project-by-oleg.space
+#ansible_hostname = www.project-by-oleg.space

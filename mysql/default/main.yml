@@ -1,0 +1,6 @@
+---
+
+mysql_db: wordpress
+mysql_user: oleg
+mysql_password: oleg1998
+mysql_root_password: 1234
